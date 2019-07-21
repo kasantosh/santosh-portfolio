@@ -26,3 +26,8 @@ body {
     padding: 3em !important;
   }
 }
+
+.projectlinks {
+  list-style: none;
+  color: white;
+}
